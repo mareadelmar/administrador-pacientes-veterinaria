@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mareadelmar/administrador-pacientes-veterinaria#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.16.0",
     "jest": "^27.3.1"
   }
 }
