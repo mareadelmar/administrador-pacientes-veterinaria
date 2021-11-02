@@ -1,0 +1,23 @@
+{
+  "name": "administrador-de-citas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mareadelmar/administrador-pacientes-veterinaria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mareadelmar/administrador-pacientes-veterinaria/issues"
+  },
+  "homepage": "https://github.com/mareadelmar/administrador-pacientes-veterinaria#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
